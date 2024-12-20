@@ -83,8 +83,8 @@ Here’s a detailed `README.md` file for your **Ecommerce ShopCart** project bas
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Ecommerce-ShopCart.git  
-   cd Ecommerce-ShopCart  
+   git clone https://github.com/Snehaloges/Ecommerce-ShopCart.git  
+   cd Ecommerce-ShopCart 
    ```  
 
 2. Install dependencies for both frontend and backend:  
