@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Snehaloges/Ecommerce-Website--ShopCart.git/static/css/main.7460f307.css",
+    "main.js": "/Snehaloges/Ecommerce-Website--ShopCart.git/static/js/main.5bd0b8e5.js",
+    "index.html": "/Snehaloges/Ecommerce-Website--ShopCart.git/index.html",
+    "main.7460f307.css.map": "/Snehaloges/Ecommerce-Website--ShopCart.git/static/css/main.7460f307.css.map",
+    "main.5bd0b8e5.js.map": "/Snehaloges/Ecommerce-Website--ShopCart.git/static/js/main.5bd0b8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7460f307.css",
+    "static/js/main.5bd0b8e5.js"
+  ]
+}
