@@ -1,0 +1,238 @@
+[
+  {
+    "Companylogo":"/assets/logo/inalsalogo.png",
+    "companyName": "Inalsa",
+    "productName": "Insalsa Fryer Fry-Light-1400w",
+    "productDetail": "The Insalsa Fryer Fry-Light 1400W is a compact and efficient air fryer designed for healthy cooking with minimal oilIt features a powerful 1400W motor for quick and even frying, grilling, and baking. Its sleek design and intuitive controls make it perfect for modern kitchens.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "image": "/assets/images/inasla.png",
+    "reviewStars": 4.5,
+    "reviewImages":[
+       
+    ],
+    "price": "4,627.00",
+    "offer": "-40%",
+    "shippingInfo": {
+        "estimatedDelivery": "Jul 30 - Aug 03",
+        "freeShipping": "On all Orders over $75"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/OnePlus_logo_PNG_(14).png",
+    "companyName": "Oneplus",
+    "productName": "Oneplus Bullets Z2 Bluetooth Wireless",
+    "productDetail": "The OnePlus Bullets Z2 Bluetooth Wireless earphones deliver immersive sound with dynamic bass and a long battery life of up to 30 hours. Featuring fast charging, just 10 minutes of charge provides 20 hours of playback. With a lightweight design and IP55 water resistance, they're perfect for everyday use.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/bluetooth.png",
+    "reviewImages":[
+      "/assets/reviewimages/headreview2.png",
+      "/assets/reviewimages/headphone1.png",
+      "/assets/reviewimages/hheadreview2.png"
+    ],
+    "price": "38.00",
+    "offer": "-26%",
+    "shippingInfo": {
+        "estimatedDelivery": "Jun 30 - Jul 03",
+        "freeShipping": "On all Orders over $55"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/FASTRACK.png",
+    "companyName": "Fastrack",
+    "productName": "New Fastrack Reflex Play| AMOLED display",
+    "productDetail": "The Fastrack Reflex Play smartwatch features a vibrant AMOLED display for clear and vivid visuals. It offers multiple health tracking features, including heart rate monitoring and sleep tracking, along with built-in games. With stylish looks and seamless connectivity, it’s perfect for tech-savvy users.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/watch.png",
+    "reviewImages":[
+      "/assets/reviewimages/watchreview1.png",
+      "/assets/reviewimages/watchreview2.png",
+      "/assets/reviewimages/watchreview3.png",
+      "/assets/reviewimages/watchreview4.png"
+  ],
+    "price": "₹5,699.00",
+    "offer": "-23%",
+    "shippingInfo": {
+        "estimatedDelivery": "Aug 28 - september 05 ",
+        "freeShipping": "On all Orders over $50"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/iphone.logo.jpg",
+    "companyName": "Apple",
+    "productName": "Apple iPhone 13(128GB)-Green",
+    "productDetail": "The Apple iPhone 13 (128GB) in Green features a sleek design and a 6.1-inch Super Retina XDR display for stunning visuals. Powered by the A15 Bionic chip, it delivers exceptional performance and energy efficiency. Its advanced dual-camera system ensures brilliant photos and videos, even in low light.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/phone.png",
+    "reviewImages":[
+        "/assets/reviewimages/iphonereview1.png",
+        "/assets/reviewimages/iphonereview2.png",
+        "/assets/reviewimages/iphonereview3.png",
+        "/assets/reviewimages/iphonereview4.png"
+    ],
+    "price": "₹66,900.00",
+    "offer": "-25%",
+    "shippingInfo": {
+        "estimatedDelivery": "Jul 30 - Aug 03",
+        "freeShipping": "On all Orders over $35"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/samsung.png",
+    "companyName": "Samsung",
+    "productName": "Samsung Galaxy Tab S8+ - Wifi only, Graphite",
+    "productDetail":"The Samsung Galaxy Tab S8+ (WiFi Only) in Graphite boasts a 12.4-inch Super AMOLED display for immersive visuals and smooth 120Hz refresh rate. Powered by a Snapdragon 8 Gen 1 processor, it offers seamless multitasking and performance. With S Pen support and a premium design, it's perfect for productivity and entertainment.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/tv.png",
+    "reviewImages":[
+        "/assets/reviewimages/normaltab1.png",
+        "/assets/reviewimages/normaltab2.png",
+        "/assets/reviewimages/normaltab3.png",
+        "/assets/reviewimages/normaltab4.png"
+    ],
+    "price": "₹74,998.00",
+    "offer": "-15%",
+    "shippingInfo": {
+        "estimatedDelivery": "september 25 - October 03",
+        "freeShipping": "On all Orders over $45"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/kodak.jpg",
+    "companyName": "Kodak",
+    "productName": "Kodak Mini Shot 3 Retro- Yellow,Bluetooth",
+    "productDetail": "The Kodak Mini Shot 3 Retro in Yellow is a stylish instant camera with built-in Bluetooth connectivity for printing photos directly from your smartphone. It supports 3x3-inch photo prints with vibrant colors and sharp details. Compact and fun, it's perfect for capturing and sharing memories on the go.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/camera.png",
+    "reviewImages":[
+       "/assets/reviewimages/camera1.png",
+        "/assets/reviewimages/camera2.png",
+        "/assets/reviewimages/camera3.png",
+        "/assets/reviewimages/camera4.png"
+    ],
+    "price": "₹74,998.00",
+    "offer": "-13%",
+    "shippingInfo": {
+        "estimatedDelivery": "October 30 - November 03",
+        "freeShipping": "On all Orders over $65"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/zebronicslogo.png",
+    "companyName": "Zebronics",
+    "productName": "Zebronics Zeb-Reaper 2.5GHz wireless Gaming Mouse",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "productDetail": "The Zebronics Zeb-Reaper is a 2.5GHz wireless gaming mouse designed for precision and performance. It features an ergonomic design, adjustable DPI settings, and a responsive sensor for seamless gaming. With RGB lighting and a long-lasting battery, it enhances both style and functionality.",
+    "reviewStars": 4.7,
+    "image": "/assets/images/mouse.png",
+    "reviewImages":[
+        "/assets/reviewimages/headreview2.png",
+        "/assets/reviewimagesheadphone1.png"
+    ],
+    "price": "₹1,599.00",
+    "offer": "-40%",
+    "shippingInfo": {
+        "estimatedDelivery": "November 27- December 03",
+        "freeShipping": "On all Orders over $25"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/zebronicslogo.png",
+    "companyName": "Zebronics",
+    "productName": "Zebronics Zeb-Transformation-k USB Gaming Keyboard |RGB LED lighting",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "productDetail": "The Zebronics Zeb-Transformer-K USB Gaming Keyboard features robust build quality with RGB LED lighting for an immersive gaming experience. It offers tactile keys for precise control and dedicated multimedia keys for convenience. With a stylish design and durable construction, it's perfect for gamers.",
+    "reviewStars": 4.7,
+    "image": "/assets/images/keyboard.png",
+    "reviewImages":[
+        "/assets/reviewimages/keyboardreview1.png",
+        "/assets/reviewimages/keyboardreview2.png",
+        "/assets/reviewimages/keyboardreview3.png",
+        "/assets/reviewimages/keyboardreview4.png"
+    ],
+    "price": "₹990.00",
+    "offer": "-36%",
+    "shippingInfo": {
+        "estimatedDelivery": "December 30 - January 05",
+        "freeShipping": "On all Orders over $45"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/tp-link logo.png",
+    "companyName": "TP-link",
+    "productName": "TP-Link Powered USB Hub With 7 Data Smart Changing hub",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "productDetail": "The TP-Link Powered USB Hub with 7 Data Smart Charging Ports combines high-speed data transfer and efficient charging in one device. It supports up to 7 devices simultaneously, offering smart charging for optimized performance. With its compact and durable design, it's perfect for home or office use.",
+    "reviewStars": 4.7,
+    "image": "/assets/images/Remote.png",
+    "reviewImages":[
+        "/assets/reviewimages/usbreview1.png",
+        "/assets/reviewimages/usbreview2.png",
+        "/assets/reviewimages/usbreview3.png",
+        "/assets/reviewimages/usbreview4.png"
+    ],
+    "price": "₹1,999.00",
+    "offer": "-36%",
+    "shippingInfo": {
+        "estimatedDelivery": "January 25 - February 03",
+        "freeShipping": "On all Orders over $55"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/kodak.jpg",
+    "companyName": "Kodak",
+    "productName": "Scarters Mouse Pad, Deskmat Extended for Work from Home/Office/Gaming",
+    "productDetail": "The Scarters Extended Mouse Pad and Deskmat is designed for work, gaming, or office setups, offering a smooth and spacious surface. Its anti-slip base ensures stability, while the water-resistant material enhances durability. With a sleek design, it adds style and functionality to any workspace.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image": "/assets/images/Gadget.png",
+    "reviewImages":[
+        "/assets/reviewimages/tapreview1.png",
+        "/assets/reviewimages/tapreview2.png",
+        "/assets/reviewimages/tapreview3.png",
+        "/assets/reviewimages/tapreview4.png"
+    ],
+    "price": "₹1,599.00",
+    "offer": "-30%",
+    "shippingInfo": {
+        "estimatedDelivery": "February 30 - March 05",
+        "freeShipping": "On all Orders over $40"
+      }
+  },
+  {
+    "Companylogo":"/assets/logo/ hyper.jpg",
+    "companyName": "HyperX",
+    "productName": "HyperX Streamer Starter Pack(HBNDL0001), Black",
+    "productDetail": "The HyperX Streamer Starter Pack (HBNDL0001) includes essential gear for aspiring streamers, featuring a high-quality microphone, adjustable boom arm, and pop filter. The pack offers professional-grade sound for clear, crisp audio during streams or recordings. With its sleek black design, it's ideal for creating a polished streaming setup.",
+    "colors": ["#000000", "#FFFFFF", "#8B00FF"],
+    "Stock": 50,
+    "reviewStars": 4.7,
+    "image":"/assets/images/mic.png",
+    "reviewImages":[
+        "/assets/reviewimages/micreview1.png",
+        "/assets/reviewimages/micreview2.png",
+        "/assets/reviewimages/micreview3.png",
+        "/assets/reviewimages/micreview4.png"
+    ],
+    "price": "₹11,599.00",
+    "offer": "-26%",
+    "shippingInfo": {
+        "estimatedDelivery": "March 28- April 01",
+        "freeShipping": "On all Orders over $65"
+      }
+  }
+]

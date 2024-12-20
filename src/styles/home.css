@@ -1,0 +1,393 @@
+
+.home-container {
+  padding: 20px;
+  margin-top: 13%;
+  transition: opacity 0.3s ease-in-out;
+  z-index: 1;
+  margin-left:-55%;
+  position: absolute;
+  font-family: 'Poppins', sans-serif;
+  display: flex; /* Align children in a row */
+  flex-direction: row;
+  align-items: flex-start; /* Align to the top */
+
+}
+
+/* Home first section */
+.home-first-section {
+  display: flex;
+  background-color: white;
+  margin-top: -8%;
+  flex-direction: column; /* Align heading and image container vertically */
+  align-items: flex-start;
+  width: 100%;
+
+  height: 100%; /* Ensure the height matches the hot deals container */
+
+}
+
+/* Section heading */
+.section-heading {
+  font-size: 34px;
+  margin-top: -10%;
+  font-weight: 100;
+  margin-left: 100px;
+  text-align: left;
+}
+
+.color-container {
+  color: #ffae5d;
+  font-weight: 700;
+}
+
+/* Highlight image container */
+.highlight-image-container {
+  width: 80%;
+  margin-top: 14%;
+  margin-left: 60px;
+  margin-top: 10px;
+  flex-direction: column; /* Align contents vertically */
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.highlight-image {
+  width: 100%; 
+  border-radius: 10px;
+  margin-left: 30px; /* Align with the section heading */
+}
+
+/* Hot deals container */
+.hot-deals-container {
+  width: 200%; 
+  overflow-x: scroll;
+  display: flex;
+  margin-right:-6%;
+  flex-direction: column; /* Stack cards and indicator */
+  align-items: flex-start; /* Align content to the left */
+  margin-top:-10%;
+  height: 50%; 
+  scroll-behavior: smooth;
+
+}
+
+.hot-deals-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for WebKit browsers */
+}
+
+/* Subheading and dashed underline above hot deals */
+.hot-deals-header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-bottom: 10px;
+}
+
+.sub-heading {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom:5px;
+  text-align: left;
+}
+
+.heading-underline {
+  width: 100%; /* Full width */
+  height: 2px;
+  border-top: 2px dashed #ffae5d;
+  margin-top: 5px;
+}
+
+/* Product scroll section */
+.product-scroll {
+  display: flex;
+ 
+}
+
+.product-card {
+  flex: 0 0 auto;
+  width: 250px;
+  height: 280px;
+  background-color: #fff;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.product-card:hover {
+  border: 1px solid grey;
+  border-radius: 10px;
+}
+
+.product-image {
+  width: 100%;
+  height: 180px;
+  object-fit: contain;
+}
+
+.product-name {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  margin: 10px 0;
+}
+
+.product-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #333;
+}
+
+.product-price {
+  font-size: 14px;
+  padding-top:18px;
+  font-weight: bold;
+  color: #333;
+}
+
+.product-offer {
+  font-size: 14px;
+  color: #ff5722;
+  background-color: #cdc7c7;
+  padding: 3px;
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+}
+
+/* Scroll indicator container */
+.scroll-indicator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  width: 100%; /* Match the width of hot-deals-container */
+}
+
+.scroll-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #7c7a7a;
+  margin: 0 5px;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.scroll-dot.active {
+  background-color: #ff5722;
+}
+
+.scroll-dot.pair-active {
+  width: 20px;
+  border-radius: 10px;
+  background-color: #ff5722;
+  margin: 0 8px;
+}
+/* Today's Deals Section */
+.todays-deals-section {
+  padding: 40px 20px;
+}
+
+.todays-deals-section .sub-heading {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 1%;
+  margin-left: -105%;
+  color: black;
+  margin-bottom: 10px;
+}
+
+.todays-deals-section .heading-underline {
+  width: 100%;
+  margin-left: -105%;
+  border-top: 2px dashed #ff6347;
+  
+}
+
+.todays-deals-container {
+  display: flex;
+  margin-top: 2%;
+  gap: 1rem;
+  margin-left: -105%;
+}
+
+.todays-product-card {
+  flex: 0 0 auto;
+  width: 250px;
+  height: 320px;
+  background-color: #fff;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+.todays-product-card:hover {
+  transform: translateY(-5px);
+  border-color: #333;
+}
+
+.todays-product-image {
+  padding: 4px 8px;
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+}
+
+.todays-product-name {
+  font-size: 16px;
+  font-weight: 500;
+  text-align: left;
+  margin: 10px 0;
+}
+
+.todays-product-info {
+  display: flex;
+  justify-content: space-between;
+  font-size: 14px;
+  color: #333;
+}
+
+.todays-product-price {
+  font-size: 14px;
+  margin-top: 25px;
+  padding-top:1px;
+  padding-left: 20px;
+  border-radius: 5px;
+  height: 30px;
+  font-weight: bold;
+  color: #333;
+  width:235px;
+  text-align:left;
+  background-color: #c8c8c8 ;
+}
+
+.add-to-cart-button {
+ 
+  font-size: 18px;
+  height: 25px;
+  background-color:#ffae5d ;
+  color:  #333;
+  margin-left:58px;
+  margin-top:2px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.todays-product-price .add-to-cart-button:hover {
+  background-color: #ff5722;
+}
+
+.todays-product-offer {
+  font-size: 14px;
+  color: #ff5722;
+  margin-left:-1050%;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  height: 200px;           /* Adjust height as needed */
+  width: 100%;      
+
+  font-weight: 400;
+}
+
+/* Review Purchase Section */
+
+.review-purchase-section {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12%;
+  gap: 20px;
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.review-product-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 70px;
+  margin-left:-500%;
+  
+}
+.review-purchase-section .sub-heading{
+  margin-left:-500%;
+  margin-top:20%;
+}
+.review-purchase-section .heading-underline{
+  margin-left:-500%;
+  width:240%;
+}
+.review-purchase-section .product-card {
+  display: flex; /* Use flexbox for layout */
+  flex-direction: row; /* Align children in a row */
+  gap: 20px; /* Space between image and content */
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  align-items: center; /* Vertically center items */
+  justify-content: space-between; /* Distribute space */
+  min-width: 280px;
+  min-height:300px;
+  width: 15%; /* Ensure full container width */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+
+.review-purchase-container .product-card img {
+  
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 8px;
+
+  object-fit:cover; /* Optional rounded corners */
+}
+
+.review-purchase-section .product-review-info {
+  padding: 5px 10px;
+  display: flex;
+  flex-direction: column; /* Stack content vertically */
+  gap: 10px; /* Space between content */
+  justify-content: center;
+  text-align: left; /* Align text to the left */
+}
+.product-name{
+  font-size: 18px;
+  font-weight: 600;
+}
+.product-info{
+  font-size:12px;
+}
+
+.product-price {
+  font-size: 14px;
+  margin-top: -15px;
+  color: #666;
+  text-align: left;
+}
+.star-rating {
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+}
+
+.star {
+  cursor: pointer;
+  color: #ddd;
+  transition: color 0.2s;
+}
+
+.star.filled {
+  color: #ffae5d;
+}
+
+.star:hover {
+  color: #ffae5d;
+}
+.number-review{
+  color: #ffae5d;
+  margin-top: 3px;
+  font-size: 10px;
+}
+

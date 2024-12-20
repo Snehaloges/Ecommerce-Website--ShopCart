@@ -1,0 +1,325 @@
+
+.Leftproduct-detail-container {
+  display: flex;
+  height: 100vh;
+  position: fixed;
+  top: 170px;
+  margin-left: -50%;
+  width: 50%;
+  background-color: white;
+  box-shadow: -4px 0px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  overflow-y: auto;
+
+}
+.home-link {
+  color:#333;
+}
+.Your-Cart {
+  color:#333;
+}
+
+
+.linkers{
+  margin-top:-10px;
+  width:150px;
+  padding:3px;
+  border-radius:5px;
+  background-color:#f1f1f1;
+  border:1px solid #f1f1f1;
+}
+.Leftproduct-detail-left {
+  flex: 1;
+  width:15px;
+  display: flex;
+  flex-direction: column;
+  
+  top:20px;
+  padding: 10px;
+}
+
+.Leftproduct-image-column {
+  display: flex;
+  flex-direction: column;
+  min-width: max-content;
+  gap: 10px;
+  align-items: center;
+  width: 40px;
+  height: 50px;
+}
+.Leftproduct-image-item {
+  width: 100%;
+  max-width: 150px; /* Adjust size of each image */
+  height: 100px;
+  border: 1px solid #333;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.Leftproduct-image-item:hover {
+  transform: scale(1.05);
+}
+
+
+.Leftproduct-detail-right {
+  flex: 4;
+  padding: 20px;
+  overflow-x: hidden;
+  margin-bottom: 150px;
+}
+
+.Leftproduct-header {
+  margin-bottom: 20px;
+  margin-left: -8px;
+}
+
+.Leftcompany-logo {
+  width: 150px;
+  height: 55px;
+  margin-bottom: -12px;
+}
+.Leftproduct-desc{
+ 
+  font-size: 18px;
+  text-align: left;
+}
+
+
+
+.Leftproduct-image-container {
+  position: relative;
+}
+
+.Leftproduct-image-detail {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+
+.zoom-container.active {
+  position: relative;
+  
+}
+
+.zoom-preview {
+  position: fixed; /* Fix the zoom preview to the right side */
+  top: 50%;
+  right: 90px; /* Place it to the right side */
+  transform: translateY(-45%);/* Center it vertically */
+  width: 350px;
+  height: 350px;
+  background-color: white;
+  border: 2px solid #ccc;
+  background-repeat: no-repeat;
+  background-size: 200%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  display: block;
+}
+
+.Leftproduct-image-column {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.Leftproduct-image-item {
+  width: 100%;
+  height: auto;
+}
+
+.Leftstars {
+  display: flex;
+  align-items: center;
+}
+
+.star {
+  color: #ccc;
+}
+
+.star.filled {
+  color: #f4c542;
+}
+
+.Leftaction-buttons button {
+ 
+  padding: 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.zoom-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.Leftproduct-image-column {
+  width: 50%;
+}
+
+.Leftproduct-detail-right {
+  margin-left: 10px;
+}
+
+.Leftproduct-detail-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Leftcolor-container {
+  margin-top: 20px;
+}
+
+.Leftcolors {
+  display: flex;
+  gap: 10px;
+}
+
+.Leftcolor-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+
+.Leftquantity-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.Leftaction-buttons button {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+
+.Leftshipping-info {
+  margin-top: 20px;
+}
+
+
+.Leftnum-rate{
+  margin-left:20px;
+  font-weight: 500;
+  background-color: #ffae5d;
+  border-radius: 2px;
+  height: 15px;
+  padding: 3px;
+  font-size: 12px;
+  width:30px;
+}
+
+.Leftproduct-image-container {
+  margin-top: 10px;
+}
+
+.Leftproduct-image-detail {
+  width: 100%;
+  height: auto;
+  max-height: 70vh;
+}
+
+.Leftcolors {
+  display: flex;
+}
+
+.Leftcolor-circle {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.Leftquantity-container {
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  width:25%;
+  height:40px;
+  border: 1px solid   #f1f1f1;;
+}
+
+.Leftquantity-container button {
+  padding: 10px;
+  font-size: 20px;
+}
+
+
+
+.Leftaction-buttons {
+  display: flex;
+  justify-content: space-between;
+  background-color: #f1f1f1;
+  margin-top: 20px;
+}
+
+.Leftaction-buttons button {
+  padding: 10px;
+  
+  border: none;
+  cursor: pointer;
+}
+
+.Leftshipping-info {
+  margin-top: 20px;
+  margin-left:-120px;
+
+}
+
+.Leftshipping-info p {
+  margin: 5px 0;
+  font-size: small;
+  
+}
+
+.Leftclose-modal {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 10px;
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.Leftcolor-container {
+  margin: 20px 0;
+}
+
+.Leftcolors {
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.Leftcolor-container {
+  margin: 20px 0;
+}
+
+.Leftcolors {
+  display: flex;
+  gap: 1px;
+  align-items: center;
+}
+
+.Leftcolor-circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+.Leftcolor-circle:hover{
+  border: 2px solid grey;
+  
+ 
+}

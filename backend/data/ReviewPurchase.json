@@ -1,0 +1,21 @@
+[
+    {
+        "companyName": "Apple iPad",
+        "productName": "2021 Apple iPad Pro with Apple M1 chip (12.9-inch/32.77cm,Wifi,128GB)",
+        "productInfo": "you bought it at the best price",
+        "image": "/assets/images/apple.png",
+        "reviewStars": 0,
+        "review": "0 rating",
+        "price": "99,900.00"
+    
+      },
+      {
+        "companyName": "Apple iPhone",
+        "productName": "iPhone 14 Pro Max with Apple M1 chip (6.7-inch/17.0cm,128GB)",
+        "productInfo": "you bought it at the best price",
+        "image": "/assets/images/iphone.png",
+        "reviewStars": 0,
+        "review": "0 rating",
+        "price": "1,39,900.00"
+      }
+]
