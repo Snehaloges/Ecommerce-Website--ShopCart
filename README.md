@@ -126,7 +126,7 @@ Ecommerce-ShopCart/
 
 ---
 
-## 🧩 Features in Progress  
+## 🧩some upcoming Feature ideas
 - **Payment Gateway Integration**: Secure payment processing for customer transactions.  
 - **User Wishlist**: Option for users to save products for later.  
 - **Enhanced Reporting**: Advanced analytics for admin insights.  
