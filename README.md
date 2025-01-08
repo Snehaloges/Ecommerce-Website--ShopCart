@@ -88,10 +88,24 @@ Here’s a detailed `README.md` file for your **Ecommerce ShopCart** project bas
    ```  
 
 2. Install dependencies for both frontend and backend:  
-   ```bash  
-   npm install  
-   cd backend
-   npm install  
+   ```
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
+    "axios": "^1.7.9",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "cra-template": "1.2.0",
+    "mongoose": "^8.9.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icon": "^1.0.0",
+    "react-icons": "^5.4.0",
+    "react-modal": "^3.16.3",
+    "react-router-dom": "^7.0.2",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.2"
    ```  
 
 3. Start the development servers:
