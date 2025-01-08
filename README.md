@@ -90,7 +90,7 @@ Here’s a detailed `README.md` file for your **Ecommerce ShopCart** project bas
 2. Install dependencies for both frontend and backend:  
    ```bash  
    npm install  
-   cd client  
+   cd backend
    npm install  
    ```  
 
